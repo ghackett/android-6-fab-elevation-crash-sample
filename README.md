@@ -1,6 +1,6 @@
 Sample app showing a native crash on android 5.1 and 6.0 when trying to animate `FloatingActionButton.setCompatElevation()`
 
-Crash occurs in [MainActivity](src/main/java/com/example/testapp/MainActivity.java) `onPostResume`
+Crash occurs in [MainActivity](src/main/java/com/example/testapp/MainActivity.java#L30) `onPostResume`
 
 Crash occurs 100% of the time on android 5.1 and 6.0
 
